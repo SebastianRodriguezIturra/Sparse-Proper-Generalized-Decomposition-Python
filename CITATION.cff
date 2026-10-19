@@ -1,0 +1,14 @@
+
+cff-version: 1.2.0
+message: "Please cite this software if you use it in your research."
+type: software
+title: "Sparse Proper Generalized Decomposition in Python"
+authors:
+  - family-names: "Rodriguez"
+    given-names: "Sebastian"
+    affiliation: "École Nationale Supérieure d'Arts et Métiers (ENSAM)"
+    orcid: "https://orcid.org/0000-0003-4610-1440"
+version: 1.0.0
+doi: "10.5281/zenodo.23484421"
+url: "https://github.com/SebastianRodriguezIturra/Sparse-Proper-Generalized-Decomposition-Python"
+license: MIT
